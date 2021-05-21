@@ -1,4 +1,3 @@
-### VulnerableApp-facade Information
 ### Project Information
 * <img src="assets/images/owasp_level_incubator.svg" width="66">
   <span style="font-size: 1.3em;">Incubator Project</span>
