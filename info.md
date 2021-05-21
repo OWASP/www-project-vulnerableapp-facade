@@ -1,17 +1,22 @@
-### VulnerableApp-Facade Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+### VulnerableApp-facade Information
+### Project Information
+* <img src="assets/images/owasp_level_incubator.svg" width="66">
+  <span style="font-size: 1.3em;">Incubator Project</span>
+
+#### Classification
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
+
+#### Audience
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download](https://github.com/SasanLabs/VulnerableApp-facade/releases)
+* [Slack Channel](https://owasp.slack.com/messages/#owasp-vulnerableapp/)
 
 ### Code Repository
-* [repo](#)
+* [Github Repository](https://github.com/SasanLabs/VulnerableApp-facade)
 
 ### Change Log
-* [changes](#)
+* [changes](https://github.com/SasanLabs/VulnerableApp-facade/releases)
+
 
